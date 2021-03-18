@@ -4,8 +4,8 @@ import List from './src/components/List';
 
 const App = () => {
   return <SafeAreaView style={styles.wrapper}>
-      <List/>
-    </SafeAreaView>
+    <List/>
+  </SafeAreaView>
 };
 
 const styles = StyleSheet.create({
